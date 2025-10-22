@@ -70,7 +70,7 @@
 </head>
 <body>
 <div class="header">
-    <img src="images/logo.png" alt="Institution Logo" class="logo">
+    <img src="logo.png" alt="Institution Logo" class="logo">
     <h1>Online Course Enrollment</h1>
 </div>
 <h2>Enroll in a Course</h2>
@@ -163,4 +163,5 @@ $total = $row['total'];
 
 </body>
 </html>
+
 
