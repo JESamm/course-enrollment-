@@ -130,7 +130,7 @@ if (isset($_POST['update_course'])) {
 <body>
 
 <div class="header" style="text-align:center;">
-    <img src="images/logo.png" alt="Institution Logo" style="width:200px;height:auto;margin-bottom:10px;">
+    <img src="logo.png" alt="Institution Logo" style="width:200px;height:auto;margin-bottom:10px;">
     <h1>Admin - Manage Courses</h1>
 </div>
 
@@ -217,3 +217,4 @@ if (isset($_GET['edit'])) {
 
 </body>
 </html>
+
